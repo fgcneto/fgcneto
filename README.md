@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Systems Analysis and Development - UFRN
 - 💬 Ask me about Systems Development
 - 📫 e-mail:fgcneto@gmail.com
+- Linkedin:https://www.linkedin.com/in/fgcneto/
 
 <div align="center">
   <a href="https://github.com/fgcneto">
