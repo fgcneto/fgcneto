@@ -1,6 +1,6 @@
 ### Olá, Seja Bem Vindo! 👋 Welcome
 
-- 🔭 I’m currently working on Web Systems Development and Network and Systems Administration
+- 🔭 I’m currently working on Web Systems Development and Network Systems Administration
 - 🌱 I’m currently learning Systems Analysis and Development - UFRN
 - 💬 Ask me about Systems Development
 - 📫 e-mail:fgcneto@gmail.com
